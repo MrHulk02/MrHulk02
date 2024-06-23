@@ -1,0 +1,6 @@
+- 👋 Hi, I’m MrHulk.
+- 👀 I’m interested in JavaScript, Python.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me Discord: _mrhulk
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I enjoy watching Korean and Chinese Dramas.
